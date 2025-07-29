@@ -16,3 +16,8 @@ Got the rough design figured out- subject to change. Im going for a low-poly loo
 
 <img width="836" height="337" alt="image" src="https://github.com/user-attachments/assets/6d105840-dd54-44e0-8744-dfbb2adae9d4" />
 
+## 6:54 
+took a break :sob. Finished the button wedge mechanism.
+
+<img width="1053" height="426" alt="image" src="https://github.com/user-attachments/assets/ce83e6be-99d8-46af-b3cd-5b340e8742e6" />
+
