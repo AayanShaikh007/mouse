@@ -25,3 +25,8 @@ took a break :sob. Finished the button wedge mechanism.
 Close to finishing the tutorial. I will probably make some small changes to personalize the mouse after finishing the tutorial. 
 
 <img width="822" height="400" alt="image" src="https://github.com/user-attachments/assets/f37d7b42-b8aa-4948-82e0-1f77543d3479" />
+
+## 7:38
+Finished the tutorial. 
+
+
