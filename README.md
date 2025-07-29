@@ -7,6 +7,12 @@ Since the hackatime tracking for github is unrelable, I will be journalling my p
 
 Hackatime showing today's time spent on the mouse design. Note that the dates on hackatime are unreliable, as this date should really show July 29th. 
 
-## Second entry- 3:30 or so. 
+## 3:30 or so. 
 Finished making the outline for the base of the mouse. It took me SO long to figure out why fusion 360 wouldnt see the geometry of the mouse base that i imported from the onshape document but i eventually got it working. 
 <img width="747" height="369" alt="image" src="https://github.com/user-attachments/assets/1d5126b8-1b59-4963-ad82-7a22629445de" />
+
+## 3:54
+Got the rough design figured out- subject to change. Im going for a low-poly look. 
+
+<img width="836" height="337" alt="image" src="https://github.com/user-attachments/assets/6d105840-dd54-44e0-8744-dfbb2adae9d4" />
+
