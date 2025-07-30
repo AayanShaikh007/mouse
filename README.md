@@ -1,4 +1,4 @@
-# Mouse
+# Voronoi Mouse
 
 Since the hackatime tracking for github is unrelable, I will be journalling my process in addition to tracking my time using hackatime. Currently, hackatime shows 2h 59m on the clock, with 23 minutes spent on the mouse project so far. 
 
