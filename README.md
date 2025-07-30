@@ -37,4 +37,5 @@ Going to submit the design now. I added a number of alterations to make the mous
 At this time, hackatime says I have logged 3h 18 minutes on fusion360 today designing the mouse. 
 
 <img width="341" height="578" alt="image" src="https://github.com/user-attachments/assets/f05283fd-7db0-4d9f-ba8b-3deb54e79a01" />
+
 Note how the date is still incorrect. Hackatime should show a value of this time or more when checked in the future. 
