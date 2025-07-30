@@ -29,4 +29,12 @@ Close to finishing the tutorial. I will probably make some small changes to pers
 ## 7:38
 Finished the tutorial. 
 
+## 7:57 
+Going to submit the design now. I added a number of alterations to make the mouse more comfortable to hold, and added a design on the top of the mouse case that makes it breathable too. 
 
+<img width="532" height="332" alt="image" src="https://github.com/user-attachments/assets/6503d713-9596-42a3-94f0-89bf5688cb4c" />
+
+At this time, hackatime says I have logged 3h 18 minutes on fusion360 today designing the mouse. 
+
+<img width="341" height="578" alt="image" src="https://github.com/user-attachments/assets/f05283fd-7db0-4d9f-ba8b-3deb54e79a01" />
+Note how the date is still incorrect. Hackatime should show a value of this time or more when checked in the future. 
