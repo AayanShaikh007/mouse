@@ -1,4 +1,5 @@
 # Voronoi Mouse
+A mouse with a voronoi design that also serves a dual purpose by making the mouse breathable (and hopefully more comfortable during long periods of use). I am not very good at 3d modelling ergonomic things- but I think this mouse turned out ok. 
 
 Since the hackatime tracking for github is unrelable, I will be journalling my process in addition to tracking my time using hackatime. Currently, hackatime shows 2h 59m on the clock, with 23 minutes spent on the mouse project so far. 
 
